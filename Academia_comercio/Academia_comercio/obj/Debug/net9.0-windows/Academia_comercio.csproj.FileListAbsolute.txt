@@ -1,0 +1,16 @@
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\bin\Debug\net9.0-windows\Academia_comercio.exe
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\bin\Debug\net9.0-windows\Academia_comercio.deps.json
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\bin\Debug\net9.0-windows\Academia_comercio.runtimeconfig.json
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\bin\Debug\net9.0-windows\Academia_comercio.dll
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\bin\Debug\net9.0-windows\Academia_comercio.pdb
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.csproj.GenerateResource.cache
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.AssemblyInfoInputs.cache
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.AssemblyInfo.cs
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.csproj.CoreCompileInputs.cache
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.dll
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\refint\Academia_comercio.dll
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.pdb
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.genruntimeconfig.cache
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\ref\Academia_comercio.dll
+C:\Users\1084964\Documents\GitHub\AppAcademia\Academia_comercio\Academia_comercio\obj\Debug\net9.0-windows\Academia_comercio.frmLogin.resources
